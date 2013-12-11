@@ -1,0 +1,7 @@
+*.log
+/target
+grails-data-table-json--*.zip
+grails-data-table-json--*.zip.sha1
+plugin.xml
+web-app/WEB-INF
+plugin.xml
