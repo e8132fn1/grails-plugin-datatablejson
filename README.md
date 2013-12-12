@@ -55,6 +55,5 @@ In your controller:
         {mDataProp: 'id', sClass: 'center', bSortable: true, bSearchable:false},
         {mDataProp: 'name', bSortable: true, bSearchable:true},
         {mDataProp: 'bar.name', bSortable: true, bSearchable:true},
-      ],
-      fnFooterCallback: conf.fnFooterCallback
+      ]
     });
